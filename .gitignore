@@ -1,0 +1,21 @@
+# Cartella di ambiente virtuale
+venv/
+
+# Cache e compilazioni Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File di configurazione dell'IDE
+.vscode/
+.idea/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di configurazione locale (es. variabili d'ambiente)
+.env
+
+# File di log
+*.log
