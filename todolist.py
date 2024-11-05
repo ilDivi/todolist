@@ -24,3 +24,6 @@ def carica_task():
             return json.load(file)
     except FileNotFoundError:
         return []
+
+salva_task()
+carica_task()
