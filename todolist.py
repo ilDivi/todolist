@@ -27,5 +27,5 @@ def carica_task():
 
 salva_task()
 carica_task() 
-print("hello")
+
 #aggiunta commento di prova sul branch 
